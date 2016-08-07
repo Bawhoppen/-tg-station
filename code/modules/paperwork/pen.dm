@@ -119,6 +119,7 @@
 		name = initial(name)
 		hitsound = initial(hitsound)
 		embed_chance = initial(embed_chance)
+		slowdown = initial(slowdown)
 		throwforce = initial(throwforce)
 		playsound(user, 'sound/weapons/saberoff.ogg', 5, 1)
 		user << "<span class='warning'>[src] can now be concealed.</span>"
@@ -129,6 +130,7 @@
 		name = "energy dagger"
 		hitsound = 'sound/weapons/blade1.ogg'
 		embed_chance = 100 //rule of cool
+		slowdown = -0.1
 		throwforce = 35
 		playsound(user, 'sound/weapons/saberon.ogg', 5, 1)
 		user << "<span class='warning'>[src] is now active.</span>"

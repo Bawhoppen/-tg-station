@@ -56,6 +56,7 @@
 	flags = CONDUCT
 	force = 10
 	w_class = 2
+	slowdown = -0.1
 	throwforce = 10
 	hitsound = 'sound/weapons/bladeslice.ogg'
 	throw_speed = 3

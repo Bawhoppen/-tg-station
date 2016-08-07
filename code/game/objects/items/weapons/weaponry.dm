@@ -142,6 +142,7 @@
 	throwforce = 5
 	throw_speed = 3
 	throw_range = 6
+	slowdown = -0.1
 	materials = list(MAT_METAL=12000)
 	origin_tech = "engineering=3;combat=2"
 	hitsound = 'sound/weapons/Genhit.ogg'
