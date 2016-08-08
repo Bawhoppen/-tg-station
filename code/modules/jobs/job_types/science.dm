@@ -109,6 +109,7 @@ Roboticist
 	ears = /obj/item/device/radio/headset/headset_sci
 	uniform = /obj/item/clothing/under/rank/roboticist
 	suit = /obj/item/clothing/suit/toggle/labcoat
+	glasses = /obj/item/clothing/glasses/hud/diagnostic
 
 	backpack = /obj/item/weapon/storage/backpack/science
 	satchel = /obj/item/weapon/storage/backpack/satchel/tox
