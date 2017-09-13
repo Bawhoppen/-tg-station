@@ -106,7 +106,7 @@
 
 /obj/item/kitchen/knife/combat
 	name = "combat knife"
-	icon_state = "buckknife"
+	icon_state = "cknife"
 	item_state = "knife"
 	desc = "A military combat utility survival knife."
 	force = 20
@@ -122,7 +122,14 @@
 	desc = "A hunting grade survival knife."
 	force = 15
 	throwforce = 15
-	bayonet = TRUE
+	
+/obj/item/kitchen/knife/combat/buck
+	name = "buck knife"
+	icon_state = "buckknife"
+	item_state = "knife"
+	desc = "A consumer grade utility knife."
+	force = 15
+	throwforce = 15
 
 /obj/item/kitchen/knife/combat/bone
 	name = "bone dagger"
