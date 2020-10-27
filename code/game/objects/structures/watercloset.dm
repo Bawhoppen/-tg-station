@@ -126,6 +126,17 @@
 	else
 		return ..()
 
+
+
+
+
+
+
+
+
+
+
+
 /obj/structure/toilet/secret
 	var/obj/item/secret
 	var/secret_type = null
@@ -137,6 +148,17 @@
 		secret.desc += " It's a secret!"
 		w_items += secret.w_class
 		contents += secret
+
+
+
+
+
+
+
+
+
+
+
 
 /obj/structure/toilet/greyscale
 	material_flags = MATERIAL_ADD_PREFIX | MATERIAL_COLOR | MATERIAL_AFFECT_STATISTICS
