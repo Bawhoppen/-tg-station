@@ -109677,10 +109677,6 @@
 	},
 /turf/open/floor/plasteel,
 /area/security/prison/safe)
-"jwH" = (
-/mob/living/simple_animal/mouse/brown/tom,
-/turf/open/floor/plasteel,
-/area/security/prison)
 "jAK" = (
 /obj/machinery/door/airlock/public/glass{
 	id_tag = "permabolt3";
@@ -171136,7 +171132,7 @@ aaa
 aaa
 pff
 fCE
-jwH
+aJy
 pmV
 lsG
 uoy
